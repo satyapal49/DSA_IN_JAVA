@@ -1,4 +1,4 @@
-package pattern;
+
 
 // Star Pattern
 public class star {
