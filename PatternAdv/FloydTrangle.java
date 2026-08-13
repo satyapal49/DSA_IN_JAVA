@@ -14,8 +14,7 @@ public class FloydTrangle {
         } 
         
     }
-
     public static void main(String[] args) {
-        FloydTriangle(12);
+        FloydTriangle(3);
     }
 }

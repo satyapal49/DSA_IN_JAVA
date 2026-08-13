@@ -21,7 +21,7 @@ public class InvertedRoatatedHalfPyramid {
     }
 
     public static void main(String[] args) {
-        InterverHalfPyramid(10);
+        InterverHalfPyramid(3);
     }
 
 }
